@@ -1,0 +1,2 @@
+# ha_MIscale
+小米体脂秤数据在Nodered中根据不同人进行处理
